@@ -1,0 +1,80 @@
+/* checkin */
+body{
+    background-color: #333;
+}
+.form-container{
+    width: 30%;
+    margin: auto;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 100px;
+    color:grey
+}
+
+.form-component{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.name-label{
+    display: inline-block;
+    width: 30%;
+}
+
+.name-text{
+    display: inline-block;
+    width: 100%;
+    margin-top: 10px;
+    padding-top:5px ;
+    padding-bottom: 5px;
+}
+
+.new{
+    width: 50%;
+}
+
+.checkin{
+    display: inline-block;
+    margin: auto;
+    text-decoration: none;
+    margin-top: 20px;
+    width: 100%;
+    background-color: #34BE82;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+
+}
+
+.checkin:hover{
+    background-color: #2FDD92;
+}
+
+/* Thank you page */
+.main-greeting{
+    width: 50%;
+    margin: auto;
+    color: white;
+    margin-top: 100px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+.homepage-text{
+    width: 50%;
+    margin: auto;
+    margin-top: 30px;
+text-align: center;
+color: white;
+font-family: 'Open Sans', sans-serif;
+}
+
+.here{
+    color: orange;
+    text-decoration: none;
+}
+
